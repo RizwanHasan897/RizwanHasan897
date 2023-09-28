@@ -1,6 +1,6 @@
 👋 Hi there , my name is Rizwan Hasan. I hope you are well.
 
-I have been in the tech indusry for over 5 years as an Network Engineer, but in 2022 I made the decistion to change course and learn software development. Since a young age I always had a passtion on learning tech and everything about it, I am finally in a point in my life were I know what I want to do in the future and that is to become a software developer.
+I'm a self-taught front-end developer with a background in customer-facing and IT support roles. I thrive on challenges, constantly learning and solving problems. I'm eager to advance my career, embrace new opportunities, and collaborate with like-minded professionals
 
 About me :
 
